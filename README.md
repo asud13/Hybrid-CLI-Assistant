@@ -1,7 +1,7 @@
 
 # Hybrid CLI Assistant
 
-A privacy-focused command-line AI assistant that combines local LLMs with a cloud-based GPT-4 fallback. Designed for speed, reliability, and security, the assistant prioritizes local execution whenever possible, with seamless failover to GPT-4 when needed.
+A privacy-focused command-line AI assistant that combines local LLMs with a cloud-based GPT-4 fallback. This assistant prioritizes local execution whenever possible, with seamless failover to GPT-4 when needed.
 
 
 
