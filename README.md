@@ -78,5 +78,5 @@ You can adjust:
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU](https://choosealicense.com/licenses/gpl-3.0/)
 
